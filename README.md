@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I'm Abdullah
+
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/3FN4e11RZW?site=us)
+
+
 
 <!--
 **ismail-abdul/ismail-abdul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
