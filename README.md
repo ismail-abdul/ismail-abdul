@@ -21,7 +21,7 @@
 
 ### Is Leetcode really that important ???
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/3FN4e11RZW?site=us)
+![Leetcode Stats](https://leetcard.jacoblin.cool/abdullah_ismail?site=us)
 
 
 
