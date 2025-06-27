@@ -3,7 +3,7 @@
 
 ### About me
 
- - atm, I'm building a Discord Bot for my personal server
+ - atm, I'm building a Discord Bot for my personal server and reading Eloquent JavaScript
  - I'm also studying Computer Science at the University of Warwick.
  - Still trying to decide what kind of software engineering I like most. Should junior engineers even think about specialising this early on?
  - Actively seeking experience (you can reach me on [LinkedIn](https://www.linkedin.com/in/a-ismail-olalere/)
